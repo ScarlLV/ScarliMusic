@@ -1,2 +1,4 @@
 pygame-ce>=2.5.0
 mutagen>=1.47.0
+numpy
+tkinterdnd2
